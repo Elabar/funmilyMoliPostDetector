@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  ConsoleApplication3.cpp
+c:\users\fulia\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(29): error C2664: 'HRESULT URLDownloadToFileW(LPUNKNOWN,LPCWSTR,LPCWSTR,DWORD,LPBINDSTATUSCALLBACK)': cannot convert argument 2 from 'char [256]' to 'LPCWSTR'
+  c:\users\fulia\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(29): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\users\fulia\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(33): error C2664: 'HINSTANCE ShellExecuteW(HWND,LPCWSTR,LPCWSTR,LPCWSTR,LPCWSTR,INT)': cannot convert argument 3 from 'char [256]' to 'LPCWSTR'
+  c:\users\fulia\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(33): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
